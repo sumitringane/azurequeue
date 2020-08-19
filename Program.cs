@@ -17,6 +17,7 @@ namespace console_storage_sent_msg
             //Console.WriteLine(UpdateMsgByIdQueue());
             //Console.WriteLine(DeleteMsgByIdQueue());
             //Console.WriteLine(DeleteQueue());
+            Console.WriteLine(CreateQueue());
             Console.ReadLine();
         
         }
@@ -105,6 +106,27 @@ namespace console_storage_sent_msg
                 
             }
             return "Message update Successfully";
+        }
+        /// <summary>
+        /// Create Queue dynamically.
+        /// </summary>
+        /// <returns></returns>
+        public static string CreateQueue()
+        {
+            try{
+                
+                // Instantiate a QueueClient which will be used to create and manipulate the queue
+                QueueClient queueClient = new QueueClient(queue_connection_string, "myqueue");
+
+                // Create the queue
+                queueClient.CreateIfNotExists();
+            
+            }catch(Exception ex)
+            {
+                Console.WriteLine("Exception message="+ex.Message);
+            }
+            return "Queue create in AZure storage account";
+
         }
     }
 }

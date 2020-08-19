@@ -14,7 +14,10 @@ namespace console_storage_sent_msg
             Random rnd = new Random();
             quantity=rnd.Next(1000);
         }
-
+        /// <summary>
+        /// order method
+        /// </summary>
+        /// <returns></returns>
         public override string ToString()
         {
             return $"Id : {Id}, Quantity : {quantity}";

@@ -16,3 +16,14 @@ C:\Users\sumit.ringane\Videos\project\console_storage_sent_msg\bin\Debug\netcore
 C:\Users\sumit.ringane\Videos\project\console_storage_sent_msg\bin\Debug\netcoreapp3.1\Azure.Storage.Queues.dll
 C:\Users\sumit.ringane\Videos\project\console_storage_sent_msg\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\sumit.ringane\Videos\project\console_storage_sent_msg\obj\Debug\netcoreapp3.1\console_storage_sent_msg.csproj.CopyComplete
+C:\Users\sumit.ringane\Videos\project\console_storage_sent_msg\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\sumit.ringane\Videos\project\console_storage_sent_msg\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\sumit.ringane\Videos\project\console_storage_sent_msg\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\sumit.ringane\Videos\project\console_storage_sent_msg\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sumit.ringane\Videos\project\console_storage_sent_msg\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\sumit.ringane\Videos\project\console_storage_sent_msg\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\sumit.ringane\Videos\project\console_storage_sent_msg\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sumit.ringane\Videos\project\console_storage_sent_msg\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\sumit.ringane\Videos\project\console_storage_sent_msg\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\sumit.ringane\Videos\project\console_storage_sent_msg\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sumit.ringane\Videos\project\console_storage_sent_msg\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
